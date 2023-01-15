@@ -1,5 +1,5 @@
 # WildOffice
 
-The goal of the Wild Office organization is to make digital world simpler from the web to the personal computer, from the simple user to the developper.
+The goal of the Wild Office organization is making digital world simpler from the web to the personal computer, from the simple user to the developer.
 
-Visit our [official website]() for more informations.
+Visit our [official website](https://WildOffice.github.io) for more informations.
